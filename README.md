@@ -4,7 +4,7 @@
 
 Automatic spell rank selection for Turtle WoW 1.18.1 based realms.
 
-SmartHealer Capybara intelligently selects the most appropriate healing spell rank based on your target's missing health. By reducing overhealing and unnecessary mana usage, it helps you heal more efficiently in dungeons, raids and PvP.
+SmartHealer Capybara selects the most appropriate healing spell rank based on your target's missing health. By reducing overhealing and unnecessary mana usage, it helps you heal more efficiently in dungeons, raids and PvP.
 
 Originally inspired by SmartHealer, SmartHealer Capybara continues the project with a redesigned configuration interface, Focus Players, improved compatibility and ongoing community maintenance.
 
