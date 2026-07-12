@@ -52,7 +52,6 @@ Open the configuration with:
 ```text
 /shc config
 ```
-
 ---
 
 # Usage
@@ -60,24 +59,14 @@ Open the configuration with:
 Create a macro using the spell you want SmartHealer to manage.
 
 Example:
-
 ```text
 /heal Healing Touch
 ```
-
 or
-
 ```text
 /heal Regrowth
 ```
-
 SmartHealer automatically selects the appropriate spell rank.
-
-To cast a spell normally without SmartHealer:
-
-```text
-/cast Healing Touch
-```
 
 ---
 
