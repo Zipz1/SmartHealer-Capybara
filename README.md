@@ -49,10 +49,6 @@ player.
 
 1.  Download the latest release.
 2.  Extract **SmartHealerCapybara** into:
-
-```{=html}
-<!-- -->
-```
     Interface/AddOns/
 
 Result:
@@ -61,7 +57,7 @@ Result:
     └── AddOns
         └── SmartHealerCapybara
 
-Restart the game or reload your UI.
+Restart the game.
 
 ------------------------------------------------------------------------
 
