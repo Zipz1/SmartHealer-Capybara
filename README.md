@@ -57,7 +57,7 @@ Open the configuration with:
 
 # Usage
 
-Create a macro using the spell you want SmartHealer to manage.
+Create a macro using the spell you want to manage.
 
 Example:
 
