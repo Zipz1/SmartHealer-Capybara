@@ -19,12 +19,7 @@ Compatible with:
 - Configurable overheal multiplier
 - Focus Players
 - Modern configuration UI
-- `/pfcast` support
-- HealComm 1.1
-
 ---
-
-# Screenshots
 
 ## Spell Configuration
 
