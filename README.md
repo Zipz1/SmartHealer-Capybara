@@ -4,12 +4,6 @@
 
 A modern continuation of SmartHealer featuring a redesigned configuration UI, Focus Players and improved spell rank selection.
 
-Compatible with:
-
-- ✅ Turtle WoW Client
-- ✅ Capybara Client
-- ✅ Turtle WoW client using the Capybara realmlist
-
 ---
 
 # Features
