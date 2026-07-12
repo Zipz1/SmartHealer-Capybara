@@ -82,8 +82,6 @@ Puppeteer handles targeting while SmartHealer Capybara handles spell rank select
 
 # Credits
 
-**Maintained by Zipz**
-
 Based on earlier versions of **SmartHealer** by:
 
 - Garkin
