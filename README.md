@@ -1,23 +1,22 @@
 # SmartHealer Capybara
 
-> **Heal smarter. Waste less mana. Stay in control.**
+> **Smart healing with automatic spell rank selection.**
 
 Automatic spell rank selection for Turtle WoW 1.18.1 based realms.
 
-SmartHealer Capybara selects the most appropriate healing spell rank based on your target's missing health. By reducing overhealing and unnecessary mana usage, it helps you heal more efficiently in dungeons, raids and PvP.
+SmartHealer Capybara automatically chooses the appropriate spell rank based on the target's missing health. It helps reduce overhealing while giving you full control over how each healing spell behaves.
 
-Originally inspired by SmartHealer, SmartHealer Capybara continues the project with a redesigned configuration interface, Focus Players, improved compatibility and ongoing community maintenance.
+Based on earlier versions of SmartHealer, with an updated interface, Focus Players, and compatibility improvements.
 
 ---
 
 # Features
 
-- Intelligent automatic spell rank selection
-- Reduce overhealing and conserve mana
+- Automatic spell rank selection
 - Configurable overheal multiplier
-- Priority healing with Focus Players
-- Individual Raid and Focus rank ranges for every spell
-- Modern and easy-to-use configuration UI
+- Raid and Focus rank ranges for each spell
+- Focus Players
+- Simple configuration interface
 - Compatible with Turtle WoW and Capybara clients
 
 ---
@@ -26,7 +25,7 @@ Originally inspired by SmartHealer, SmartHealer Capybara continues the project w
 
 ## Spell Configuration
 
-Configure spell rank limits and overheal settings for each healing spell.
+Configure spell ranks and overheal settings.
 
 ![Spell Configuration](docs/images/spells.png)
 
@@ -34,7 +33,7 @@ Configure spell rank limits and overheal settings for each healing spell.
 
 ## Focus Players
 
-Prioritize tanks, healers, PvP flag carriers, yourself or any important player.
+Give selected players their own healing profile.
 
 ![Focus Players](docs/images/focus.png)
 
@@ -42,7 +41,7 @@ Prioritize tanks, healers, PvP flag carriers, yourself or any important player.
 
 # Installation
 
-Extract the addon into:
+Extract the addon to:
 
 ```text
 Interface/AddOns/SmartHealerCapybara
@@ -60,7 +59,7 @@ Open the configuration with:
 
 # Usage
 
-Create a macro for the spell you want SmartHealer Capybara to manage.
+Create a macro using the spell you want SmartHealer to manage.
 
 Example:
 
@@ -74,23 +73,21 @@ or
 /heal Regrowth
 ```
 
-SmartHealer Capybara automatically selects the most appropriate spell rank for the current situation.
+The addon automatically selects the appropriate spell rank.
 
 ---
 
 # Recommended
 
-For the best experience, pair SmartHealer Capybara with **Puppeteer**.
+Works well together with **Puppeteer**.
 
-Puppeteer handles targeting while SmartHealer Capybara automatically selects the optimal healing spell rank.
+Puppeteer handles targeting while SmartHealer Capybara handles spell rank selection.
 
 ---
 
 # Credits
 
-**SmartHealer Capybara**
-
-Maintained by **Zipz**
+**Maintained by Zipz**
 
 Based on earlier versions of **SmartHealer** by:
 
