@@ -1,23 +1,32 @@
 # SmartHealer Capybara
 
-> **Automatic spell rank selection for Turtle WoW 1.18.1 based realms.**
+> **Heal smarter. Waste less mana. Stay in control.**
 
-A modern continuation of SmartHealer featuring a redesigned configuration UI, Focus Players and improved spell rank selection.
+Automatic spell rank selection for Turtle WoW 1.18.1 based realms.
+
+SmartHealer Capybara intelligently selects the most appropriate healing spell rank based on your target's missing health. By reducing overhealing and unnecessary mana usage, it helps you heal more efficiently in dungeons, raids and PvP.
+
+Originally inspired by SmartHealer, SmartHealer Capybara continues the project with a redesigned configuration interface, Focus Players, improved compatibility and ongoing community maintenance.
 
 ---
 
 # Features
 
-- Automatic spell rank selection
-- Per-spell Raid and Focus rank ranges
+- Intelligent automatic spell rank selection
+- Reduce overhealing and conserve mana
 - Configurable overheal multiplier
-- Focus Players
-- Modern configuration UI
+- Priority healing with Focus Players
+- Individual Raid and Focus rank ranges for every spell
+- Modern and easy-to-use configuration UI
+- Compatible with Turtle WoW and Capybara clients
+
 ---
+
+# Screenshots
 
 ## Spell Configuration
 
-Configure overheal and spell rank ranges for every healing spell.
+Configure spell rank limits and overheal settings for each healing spell.
 
 ![Spell Configuration](docs/images/spells.png)
 
@@ -25,7 +34,7 @@ Configure overheal and spell rank ranges for every healing spell.
 
 ## Focus Players
 
-Prioritize tanks, healers, PvP flag carriers, yourself, or any important player.
+Prioritize tanks, healers, PvP flag carriers, yourself or any important player.
 
 ![Focus Players](docs/images/focus.png)
 
@@ -46,29 +55,34 @@ Open the configuration with:
 ```text
 /shc config
 ```
+
 ---
 
 # Usage
 
-Create a macro using the spell you want SmartHealer to manage.
+Create a macro for the spell you want SmartHealer Capybara to manage.
 
 Example:
+
 ```text
 /heal Healing Touch
 ```
+
 or
+
 ```text
 /heal Regrowth
 ```
-SmartHealer automatically selects the appropriate spell rank.
+
+SmartHealer Capybara automatically selects the most appropriate spell rank for the current situation.
 
 ---
 
 # Recommended
 
-SmartHealer Capybara works especially well together with **Puppeteer**.
+For the best experience, pair SmartHealer Capybara with **Puppeteer**.
 
-Puppeteer handles targeting while SmartHealer automatically selects the optimal spell rank.
+Puppeteer handles targeting while SmartHealer Capybara automatically selects the optimal healing spell rank.
 
 ---
 
