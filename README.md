@@ -13,7 +13,6 @@ Based on earlier versions of SmartHealer, with an updated interface, Focus Playe
 - Automatic spell rank selection
 - Configurable overheal multiplier
 - Raid and Focus rank ranges for each spell
-- Focus Players
 - Simple configuration interface
 - Compatible with Turtle WoW and Capybara clients
 
