@@ -28,14 +28,6 @@ Compatible with:
 
 ------------------------------------------------------------------------
 
-# Screenshots
-
-## Overview
-
-![Overview](docs/images/banner.png)
-
-------------------------------------------------------------------------
-
 ## Spell Configuration
 
 Configure overheal and spell rank ranges for every healing spell.
@@ -159,13 +151,3 @@ Based on earlier versions of **SmartHealer** by:
 -   Garkin
 -   Melbaa
 -   dsidirop
-
-------------------------------------------------------------------------
-
-# License
-
-This project is an independent continuation of SmartHealer for the
-Turtle WoW 1.18.1 client.
-
-Please credit the original SmartHealer authors when reusing or building
-upon this work.
