@@ -19,8 +19,6 @@ Based on earlier versions of SmartHealer, with an updated interface, Focus Playe
 
 ---
 
-# Screenshots
-
 ## Spell Configuration
 
 Configure spell ranks and overheal settings.
